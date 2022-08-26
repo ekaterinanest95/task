@@ -1,0 +1,15 @@
+D:\Documents\education_analytic\Practise\Task\task\ex01\bin\Debug\net6.0\ex01.exe
+D:\Documents\education_analytic\Practise\Task\task\ex01\bin\Debug\net6.0\ex01.deps.json
+D:\Documents\education_analytic\Practise\Task\task\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+D:\Documents\education_analytic\Practise\Task\task\ex01\bin\Debug\net6.0\ex01.dll
+D:\Documents\education_analytic\Practise\Task\task\ex01\bin\Debug\net6.0\ex01.pdb
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.dll
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\refint\ex01.dll
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.pdb
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+D:\Documents\education_analytic\Practise\Task\task\ex01\obj\Debug\net6.0\ref\ex01.dll
